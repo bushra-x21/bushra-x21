@@ -42,8 +42,6 @@
 
 ## 📫 How to Reach Me
 - Email: [bushrabilal226@gmail.com]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Portfolio: [Your portfolio URL if available]
 
 ---
 
@@ -52,13 +50,12 @@ Here are some projects I'm working on:
 - [Movie Recommondation System]()
 - [Car Parking System ]()
 
-(Add your projects here as you complete them)
 
 ---
 
 ## ⚡ Fun Facts
 - I enjoy participating in hackathons and coding competitions
--  I love solving coding challenges and exploring new technologies
+  
 
 - 
 ## ⚡ My Coding Philosophy
