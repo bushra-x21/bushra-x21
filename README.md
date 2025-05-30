@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hello there! I'm Bushra Bilal 👋
 
-<!--
-**bushra-x21/bushra-x21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student 
+🔨Currently working on web development projects and improving my coding skills  
+📚Learning C++, PHP, and database fundamentals  
+💡 Ask me about HTML, CSS, and programming concepts  
+✨ Fun fact: I'm passionate about coding and love building innovative software solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+
+### Programming Languages
+- C++
+- PHP
+- JavaScript (Basic)
+
+### Web Development
+- HTML5
+- CSS3
+- Responsive Design
+
+### Database Fundamentals
+- SQL
+- Database Design
+- MySQL
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- XAMPP
+
+---
+
+## 🌱 Currently Learning
+- Advanced C++ concepts
+- PHP for backend development
+- Database management systems
+- Software design patterns
+
+---
+
+## 📫 How to Reach Me
+- Email: [bushrabilal226@gmail.com]
+- LinkedIn: [Your LinkedIn Profile URL]
+- Portfolio: [Your portfolio URL if available]
+
+---
+
+## 🚀 Projects
+Here are some projects I'm working on:
+- [Movie Recommondation System]()
+- [Car Parking System ]()
+
+(Add your projects here as you complete them)
+
+---
+
+## ⚡ Fun Facts
+- I enjoy participating in hackathons and coding competitions
+-  I love solving coding challenges and exploring new technologies
+
+- 
+## ⚡ My Coding Philosophy
+- I believe in writing clean, efficient code
+- Passionate about solving real-world problems through software
+- Always eager to learn new technologies and best practices
