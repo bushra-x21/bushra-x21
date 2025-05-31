@@ -62,3 +62,10 @@ Here are some projects I'm working on:
 - I believe in writing clean, efficient code
 - Passionate about solving real-world problems through software
 - Always eager to learn new technologies and best practices
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bushra-x21&show_icons=true&theme=merko)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-x21&layout=compact&theme=merko)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bushra-x21&color=merko)
