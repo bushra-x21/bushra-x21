@@ -52,7 +52,7 @@ Here are some projects I'm working on:
 
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=bushra-x21&color=0d1117)
 ## ⚡ Fun Facts
 - I enjoy participating in hackathons and coding competitions
   
